@@ -105,12 +105,17 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=refkinscallv&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" alt="stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=refkinscallv&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&cache_seconds=86400" alt="top langs"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=refkinscallv&theme=tokyonight" alt="profile summary"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=refkinscallv&theme=tokyonight&hide_border=true" alt="streak"/>
+  <img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=refkinscallv&theme=tokyonight" alt="repos per language"/>
+  <img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=refkinscallv&theme=tokyonight" alt="most commit language"/>
+</p>
+
+<p align="center">
+  <img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=refkinscallv&theme=tokyonight" alt="stats"/>
+  <img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=refkinscallv&theme=tokyonight&utcOffset=7" alt="productive time"/>
 </p>
 
 ---
